@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DzK2Sem1/1.0.0": {
+        "runtime": {
+          "DzK2Sem1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DzK2Sem1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
